@@ -10,7 +10,7 @@ void rev_string(char *s);
 void puts2(char *str);
 void puts_half(char *str);
 void print_array(int *a, int n);
-8-print_array.c
+8-print_array.c;
 char *_strcpy(char *dest, char *src);
 
 #endif
